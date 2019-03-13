@@ -11,5 +11,5 @@ this file just update directory for recorded papers
 3.Deformable ConvNets v2 More Deformable, Better Results  
 4.Cascade R-CNN Delving into High Quality Object Detection  
 5.Scale-Aware Trident Networks for Object Detection  
-6.Path Aggregation Network for Instance Segmentation 
+6.Path Aggregation Network for Instance Segmentation   
 7.Hybrid Task Cascade for Instance Segmentation 
