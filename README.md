@@ -2,7 +2,7 @@
 for this repository, just focus on issues for recording detection related papers 
 
 all the paper records are writen in issues. 
-please click here :https://github.com/yankun-pku/paper_records/issues/1
+please click here :https://github.com/yankun-pku/paper_records/issues  
 
 this file just update directory for recorded papers, not ordered by time.
 
