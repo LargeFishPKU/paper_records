@@ -16,4 +16,5 @@ this file just update directory for recorded papers, not ordered by time.
 8.R-FCN: Object Detection via Region-based Fully Convolutional Networks      
 9.Light-Head R-CNN: In Defense of Two-Stage Object Detector  
 10.Region Proposal by Guided Anchoring    
+**Note:** 11-20 mainly focus on anchor-free methods     
 11.Feature Selective Anchor-Free Module for Single-Shot Object Detection
