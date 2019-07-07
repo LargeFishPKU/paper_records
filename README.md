@@ -18,4 +18,5 @@ this file just update directory for recorded papers, not ordered by time.
 10.Region Proposal by Guided Anchoring    
 **Note: 11-20 mainly focus on anchor-free methods**     
 11.Feature Selective Anchor-Free Module for Single-Shot Object Detection   
-12.Segmentation Is All You Need 。
+12.Segmentation Is All You Need   
+13.Bottom-up Object Detection by Grouping Extreme and Center Points
