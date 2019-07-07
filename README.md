@@ -1,5 +1,5 @@
 # paper_records  
-for this repository, just focus on issues for recording detection related papers 
+for this repository, just focus on issues for recording object detection related papers in computer vision  
 
 all the paper records are writen in issues. 
 please click here :https://github.com/yankun-pku/paper_records/issues  
